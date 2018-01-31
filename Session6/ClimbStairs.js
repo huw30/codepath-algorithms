@@ -1,3 +1,4 @@
+//https://i.imgur.com/CtakAmQ.gif
 /**
 You are climbing a stair case. It takes n steps to reach to the top.
 
